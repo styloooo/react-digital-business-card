@@ -14,7 +14,7 @@ export default function Info() {
             <a className="info--emailLink" href="mailto:tallyndavis@comcast.net">
                 <div className="info--buttonContainer">
                         <div className="info--emailButton">
-                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            <i className="fa fa-envelope" aria-hidden="true"></i>
                             <p>Email</p>
                         </div>
                     {/* <div className="info--socialButton">
